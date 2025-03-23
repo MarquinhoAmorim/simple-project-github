@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#gameArea {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    border: 2px solid #333;
+}
+
+.hidden {
+    display: none;
+}
